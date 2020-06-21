@@ -4,7 +4,10 @@
 
 ## Description comming soon!
 
-## Game Jam expirience
+Felicia is a game developed in 48 hours in a jam game.
+The game was developed with HTML canvas and Javascript.
+
+The theme was a reflection
 
 ## Characters
 ![](/Game/img/ui/character.png)
